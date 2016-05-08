@@ -1,0 +1,256 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	margin:0px;
+	padding:0px;
+	height:100%;
+	min-height:600px;
+	position:relative;
+}
+
+.top
+{
+	height:40px;
+	width:auto;
+	margin-top:10px;
+}
+
+
+.guide
+{
+	height:40px;
+	width:500px;
+	float:right;
+}
+.guide>a.a_01{
+	color: #333;
+    float: left;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 40px;
+    margin-left: 20px;
+    text-decoration: underline;
+}
+
+.guide>a.a_02{
+	color: #333;
+    float: left;
+    font-size: 13px;
+    line-height: 40px;
+    margin-left: 20px;
+    text-decoration: underline;
+}
+.guide>a.a_03
+{
+	display:block;
+	width:60px;
+	height:20px;
+	color:#FFF;
+	background:#38f;
+	float:left;
+	font-size: 13px;
+	margin-top:10px;
+	margin-left:20px;
+	text-align:center;
+	text-decoration: none;
+	line-height: 20px;
+}
+
+.guide a:hover
+{
+	color:#00c;
+}
+.middle
+{
+	margin-top:110px;
+	margin-left:auto;
+	margin-right:auto;
+	width:670px;
+	height:200px;
+}
+.middle .logo
+{
+	width:270px;
+	height:127px;
+	background:url(picture/bd_logo1.png);
+	margin-left: auto;
+	margin-right:auto;
+	margin-bottom:20px;
+}
+.middle .in
+{
+	height:50px;
+	width:700px;
+	padding:0px;
+	position:relative;
+}
+.middle .in .in_01
+{
+	width:550px;
+	height:34px;
+	border:#CCC solid 1px;
+	display:block;
+	float:left;
+}
+.middle .in .in_02
+{
+	height:38px;
+	width:100px;
+	color:#FFF;
+	background:#3385ff;
+	border:0px;
+	display:block;
+	float:left;
+}
+.middle .in .in_03
+{
+	height:30px;
+	width:37px;
+	background:url(picture/biao03.png);
+	position:absolute;
+	left:510px;
+	top:5px;
+}
+.footf
+{
+	width:100%;
+	height:100px;
+	position:absolute;
+	bottom:23px;
+}
+.foot
+{
+	width:670px;
+	height:100px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.foot .phone
+{
+	width:120px;
+	height:100px;
+	margin-right:40px;
+	float:left;
+}
+.foot .nuomi
+{
+	width:120px;
+	height:100px;
+	margin-right:40px;
+	float:left;
+}
+.foot .mess
+{
+	width:350px;
+	height:100px;
+	float:left;
+}
+.foot .phone .phone_01
+{
+	width:64px;
+	height:65px;
+	float:left;
+	background:url(picture/phone.png);
+}
+.foot .phone .phone_02
+{
+	width:56px;
+	height:65px;
+	float:left;
+}
+.text01
+{
+	width:56px;
+	height:23px;
+	color:#666;
+	line-height:23px;
+	font: 12px arial;
+	font-weight: bold;
+	margin-top:10px;
+	padding-left:2px;	
+}
+.text02
+{
+	width:56px;
+	height:23px;
+	color:#999;
+	line-height:23px;
+	font: 12px arial;
+	font-weight: bold;
+	margin-top:7px;
+	padding-left:2px;	
+}
+
+.foot .nuomi .nuomi_01
+{
+	width:61px;
+	height:62px;
+	float:left;
+	background: url(picture/nuomi.png);
+}
+.foot .nuomi .nuomi_02
+{
+	width:56px;
+	height:65px;
+	float:left;
+}
+
+.foot .mess .mess_01
+{
+	width:350px;
+	height:21px;
+}
+.foot .mess .mess_02
+{
+	width:350px;
+	height:21px;
+	color:#999;
+	line-height:21px;
+	font: 12px arial;
+}
+.foot .mess .mess_03
+{
+	width:350px;
+	height:21px;
+	color:#999;
+	line-height:21px;
+	font: 12px arial;
+}
+
+.foot .mess .mess_01 a
+{
+	color:#999;
+	line-height:21px;
+	font: 12px arial;
+	display:inline;
+	margin-right:30px;
+}
+.foot .mess .mess_02 a
+{
+	color:#999;
+}
+.foot .mess .mess_02 .biao
+{
+	width:19px;
+	height:21px;
+	background:url(picture/biao1.png);
+	float:right;
+}
+
+.foot .mess .mess_03 .biao2
+{
+	width:18px;
+	height:21px;
+	background:url(picture/biao2.png);
+	float:left;
+}
+
+
+
+
+
+
+
+

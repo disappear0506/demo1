@@ -1,0 +1,263 @@
+
+#login
+{
+	width:400px;
+	height:450px;
+	position:absolute;
+	left:508px;
+	top:79px;
+	z-index:60001;
+	background:#9FF;
+}
+
+#login_top
+{
+	width:400px;
+	height:50px;
+	background:#F7F7F7;
+}
+#top_du
+{
+	background:url(picture/du.png);
+	height:44px;
+	width:46px;
+	float:left;
+	margin-top:4px;
+}
+#top_text
+{
+	height:50px;
+	width:250px;
+	float:left;
+	line-height:50px;
+	font-size:16px;
+	font-family:"宋体";
+	font-weight:bold;
+	color:#666;
+	margin-left:4px;
+}
+#top_fork
+{
+	width:42px;
+	height:42px;
+	float:right;
+	margin-top:4px;
+	background:url(picture/login_fork.png);
+}
+
+
+
+#login_main
+{
+	height:310px;
+	width:400px;
+}
+#main_quick
+{
+	margin-top:10px;
+	height:25px;
+	width:400px;
+}
+#quick01
+{
+	height:25px;
+	width:21px;
+	float:left;
+	margin-left:280px;
+	background:url(picture/login_phone.png);
+}
+#quick02
+{
+	height:25px;
+	width:90px;
+	float:left;
+	margin-left:5px;
+	font: 12px arial;
+	line-height:25px;
+}
+#quick02 a
+{
+	text-decoration:none;
+	color:#666;
+}
+#quick02 a:hover
+{
+	text-decoration:underline;
+	color:#1b66c7;
+}
+
+#main_user
+{
+	width:400px;
+	height:49px;
+	position:relative;
+}
+#userimage
+{
+	height:35px;
+	width:34px;
+	background:url(picture/login_user.png);
+	position:absolute;
+	left:26px;
+	top:5px;
+}
+#main_pass
+{
+	width:400px;
+	height:47px;
+	position:relative;
+}
+#passimage
+{
+	height:35px;
+	width:33px;
+	background:url(picture/login_pass.png);
+	position:absolute;
+	left:26px;
+	top:5px;
+}
+#passfork
+{
+	height:30px;
+	width:28px;
+	position:absolute;
+	top:5px;
+	right:30px;
+	background:url(picture/login_passfork.png);
+}
+.textinput
+{
+	height:45px;
+	width:315px;
+	display:block;
+	border:1px solid #F7F7F7;
+	margin-left:25px;
+	margin-top:15px;
+	padding-left:35px;
+	font-family:"宋体";
+	font-size:16px;
+	color:#F7F7F7;
+}
+#main_login
+{
+	height:30px;
+	width:400px;
+	margin-top:15px;
+}
+#logininput
+{
+	width:20px;
+	height:20px;
+	display:block;
+	margin-left:26px;
+	float:left;
+	margin-top:0px;
+}
+#logintext
+{
+	width:100px;
+	height:30px;
+	line-height:30px;
+	float:left;
+	margin-left:2px;
+	font: 12px arial;
+	color:#666;
+}
+.logina
+{
+	height:30px;
+	width:100px;
+	float:right;
+	margin-right:26px;
+}
+.logina a
+{
+	text-decoration:none;
+	font: 12px arial;
+	color:#1b66c7;
+	display:block;
+	text-align:right;
+}
+.logina a:hover
+{
+	text-decoration:underline;
+}
+
+
+
+#main_submit
+{
+	height:40px;
+	width:350px;
+	margin-top:5px;
+}
+#sub
+{
+	height:40px;
+	width:350px;
+	background:#3F89EC;
+	margin-left:25px;
+	border:0px;
+	font-size:16px;
+	font-family:"宋体";
+	font-weight:bold;
+	color:#FFF;
+	line-height:40px;
+	
+}
+#main_register
+{
+	height:30px;
+	width:400px;
+	margin-top:10px;
+}
+
+#login_foot
+{
+	width:400px;
+	height:89px;
+	border-top:1px solid #F7F7F7;
+}
+
+#foot_text
+{
+	font: 12px arial;
+	color:#666;
+	height:35px;
+	line-height:35px;
+	width:400px;
+	padding-left:20px;
+	
+}
+#foot_image
+{
+	height:54px;
+	width:400px;
+}
+#foot_image01
+{
+	background:url(picture/login_qq.png);
+	height:35px;
+	width:35px;
+	float:left;
+	margin-left:20px;
+}
+#foot_image02
+{
+	background: url(picture/login_weibo.png);
+	height:35px;
+	width:35px;
+	float:left;
+	margin-left:10px;
+}
+#foot_image03
+{
+	background: url(picture/login_erwei.png);
+	height:49px;
+	width:56px;
+	float:right;
+	margin-top:-5px;
+}
+
+
+
